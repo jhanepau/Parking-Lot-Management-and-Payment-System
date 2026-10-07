@@ -1,0 +1,2 @@
+Plate Number,Parking Space,Arrival Time,Departure Time,Action
+2a,3,12:00p.m,,Updated

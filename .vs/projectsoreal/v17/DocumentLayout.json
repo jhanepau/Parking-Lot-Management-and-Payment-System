@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\openingscene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\openingscene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\security.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\security.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\menuadmin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\menuadmin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\design.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\design.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\motorcycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\motorcycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\bike.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\bike.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\HELP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\HELP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\gotoxy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\gotoxy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\help.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC81B5D-1D66-4E71-8639-88A232DC6CB5}|projectsoreal\\projectsoreal.vcxproj|solutionrelative:projectsoreal\\help.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gotoxy.h",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\gotoxy.h",
+              "RelativeDocumentMoniker": "projectsoreal\\gotoxy.h",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\gotoxy.h",
+              "RelativeToolTip": "projectsoreal\\gotoxy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T13:17:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HELP.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\HELP.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\HELP.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\HELP.cpp",
+              "RelativeToolTip": "projectsoreal\\HELP.cpp",
+              "ViewState": "AQIAABwBAAAAAAAAAAAAADUBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T10:51:09.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "help.h",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\help.h",
+              "RelativeDocumentMoniker": "projectsoreal\\help.h",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\help.h",
+              "RelativeToolTip": "projectsoreal\\help.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T10:50:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bike.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\bike.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\bike.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\bike.cpp",
+              "RelativeToolTip": "projectsoreal\\bike.cpp",
+              "ViewState": "AQIAAIIEAAAAAAAAAAAiwFMEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T12:54:48.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "security.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\security.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\security.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\security.cpp",
+              "RelativeToolTip": "projectsoreal\\security.cpp",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAAANwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T14:19:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "motorcycle.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\motorcycle.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\motorcycle.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\motorcycle.cpp",
+              "RelativeToolTip": "projectsoreal\\motorcycle.cpp",
+              "ViewState": "AQIAAO8EAAAAAAAAAAAAAA8FAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T11:04:26.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "car.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\car.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\car.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\car.cpp",
+              "RelativeToolTip": "projectsoreal\\car.cpp",
+              "ViewState": "AQIAAJEHAAAAAAAAAAAAAEwFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T14:26:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menuadmin.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\menuadmin.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\menuadmin.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\menuadmin.cpp",
+              "RelativeToolTip": "projectsoreal\\menuadmin.cpp",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAANYFAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T14:23:25.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "design.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\design.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\design.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\design.cpp",
+              "RelativeToolTip": "projectsoreal\\design.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T14:20:47.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "color.h",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\color.h",
+              "RelativeDocumentMoniker": "projectsoreal\\color.h",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\color.h",
+              "RelativeToolTip": "projectsoreal\\color.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T14:18:44.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "openingscene.cpp",
+              "DocumentMoniker": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\openingscene.cpp",
+              "RelativeDocumentMoniker": "projectsoreal\\openingscene.cpp",
+              "ToolTip": "C:\\Users\\junoc\\Desktop\\parusa\\projectsoreal\\projectsoreal\\openingscene.cpp",
+              "RelativeToolTip": "projectsoreal\\openingscene.cpp",
+              "ViewState": "AQIAAGkCAAAAAAAAAAAAAIoCAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T14:17:41.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

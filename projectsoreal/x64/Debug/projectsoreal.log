@@ -1,0 +1,201 @@
+﻿  openingscene.cpp
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(20,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(1347,38): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(1440,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(1515,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(1573,34): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(1802,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(1860,38): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(2058,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(2136,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(2421,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\car.cpp(2499,22): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(20,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(1270,38): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(1364,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(1439,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(1497,34): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(1726,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(1784,38): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(1982,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(2060,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(2345,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\motorcycle.cpp(2423,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(20,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(1218,38): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(1312,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(1387,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(1445,34): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(1689,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(1747,38): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(1945,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(2023,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(2308,30): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\bike.cpp(2386,26): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\menuadmin.cpp(14,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\menuadmin.cpp(189,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\menuadmin.cpp(230,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\menuadmin.cpp(873,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\design.cpp(9,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\security.cpp(22,5): warning C4102: 'login': unreferenced label
+  (compiling source file 'openingscene.cpp')
+  
+C:\Users\junoc\Desktop\parusa\projectsoreal\projectsoreal\openingscene.cpp(14,14): warning C4309: 'initializing': truncation of constant value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+car.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in bike.obj; second definition ignored
+car.obj : warning LNK4006: "void __cdecl setColor(int)" (?setColor@@YAXH@Z) already defined in bike.obj; second definition ignored
+car.obj : warning LNK4006: "void __cdecl setFullscreen(void)" (?setFullscreen@@YAXXZ) already defined in bike.obj; second definition ignored
+car.obj : warning LNK4006: "void __cdecl textColor(int,int)" (?textColor@@YAXHH@Z) already defined in bike.obj; second definition ignored
+design.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in bike.obj; second definition ignored
+design.obj : warning LNK4006: "void __cdecl setColor(int)" (?setColor@@YAXH@Z) already defined in bike.obj; second definition ignored
+design.obj : warning LNK4006: "void __cdecl setFullscreen(void)" (?setFullscreen@@YAXXZ) already defined in bike.obj; second definition ignored
+design.obj : warning LNK4006: "void __cdecl textColor(int,int)" (?textColor@@YAXHH@Z) already defined in bike.obj; second definition ignored
+HELP.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in bike.obj; second definition ignored
+HELP.obj : warning LNK4006: "void __cdecl setColor(int)" (?setColor@@YAXH@Z) already defined in bike.obj; second definition ignored
+HELP.obj : warning LNK4006: "void __cdecl setFullscreen(void)" (?setFullscreen@@YAXXZ) already defined in bike.obj; second definition ignored
+HELP.obj : warning LNK4006: "void __cdecl textColor(int,int)" (?textColor@@YAXHH@Z) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "bool __cdecl Payment(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Payment@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in car.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "bool __cdecl Paymentbike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Paymentbike@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl bike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?bike@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl bikedesign(void)" (?bikedesign@@YAXXZ) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl car(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?car@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in car.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl cardesign(void)" (?cardesign@@YAXXZ) already defined in car.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl setColor(int)" (?setColor@@YAXH@Z) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl setFullscreen(void)" (?setFullscreen@@YAXXZ) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl showReceipt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceipt@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in car.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl showReceiptbike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceiptbike@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in bike.obj; second definition ignored
+menuadmin.obj : warning LNK4006: "void __cdecl textColor(int,int)" (?textColor@@YAXHH@Z) already defined in bike.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "bool __cdecl Paymentmotor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Paymentmotor@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in menuadmin.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in bike.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "void __cdecl motor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?motor@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in menuadmin.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "void __cdecl motordesign(void)" (?motordesign@@YAXXZ) already defined in menuadmin.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "void __cdecl setColor(int)" (?setColor@@YAXH@Z) already defined in bike.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "void __cdecl setFullscreen(void)" (?setFullscreen@@YAXXZ) already defined in bike.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "void __cdecl showReceiptmotor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceiptmotor@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in menuadmin.obj; second definition ignored
+motorcycle.obj : warning LNK4006: "void __cdecl textColor(int,int)" (?textColor@@YAXHH@Z) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl Menu_Admin(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Menu_Admin@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl Menu_User(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Menu_User@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "bool __cdecl Payment(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Payment@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in car.obj; second definition ignored
+openingscene.obj : warning LNK4006: "bool __cdecl Paymentbike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Paymentbike@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "bool __cdecl Paymentmotor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Paymentmotor@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl bike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?bike@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl bikedesign(void)" (?bikedesign@@YAXXZ) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl bord(void)" (?bord@@YAXXZ) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl border(void)" (?border@@YAXXZ) already defined in design.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl car(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?car@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in car.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl cardesign(void)" (?cardesign@@YAXXZ) already defined in car.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl goPark(void)" (?goPark@@YAXXZ) already defined in design.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl gopark(void)" (?gopark@@YAXXZ) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl motor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?motor@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl motordesign(void)" (?motordesign@@YAXXZ) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl setColor(int)" (?setColor@@YAXH@Z) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl setFullscreen(void)" (?setFullscreen@@YAXXZ) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl showReceipt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceipt@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in car.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl showReceiptbike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceiptbike@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in bike.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl showReceiptmotor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceiptmotor@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in menuadmin.obj; second definition ignored
+openingscene.obj : warning LNK4006: "void __cdecl textColor(int,int)" (?textColor@@YAXHH@Z) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl Login_User(void)" (?Login_User@@YAXXZ) already defined in openingscene.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl Menu_Admin(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Menu_Admin@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl Menu_User(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Menu_User@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "bool __cdecl Payment(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Payment@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in car.obj; second definition ignored
+security.obj : warning LNK4006: "bool __cdecl Paymentbike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Paymentbike@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "bool __cdecl Paymentmotor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Paymentmotor@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000@Z) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl Register_User(void)" (?Register_User@@YAXXZ) already defined in openingscene.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl Security(void)" (?Security@@YAXXZ) already defined in openingscene.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl bike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?bike@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl bikedesign(void)" (?bikedesign@@YAXXZ) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl bord(void)" (?bord@@YAXXZ) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl border(void)" (?border@@YAXXZ) already defined in design.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl car(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?car@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in car.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl cardesign(void)" (?cardesign@@YAXXZ) already defined in car.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl goPark(void)" (?goPark@@YAXXZ) already defined in design.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl gopark(void)" (?gopark@@YAXXZ) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl motor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?motor@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl motordesign(void)" (?motordesign@@YAXXZ) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl setColor(int)" (?setColor@@YAXH@Z) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl setFullscreen(void)" (?setFullscreen@@YAXXZ) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl showReceipt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceipt@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in car.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl showReceiptbike(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceiptbike@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in bike.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl showReceiptmotor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double,int,int)" (?showReceiptmotor@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000NHH@Z) already defined in menuadmin.obj; second definition ignored
+security.obj : warning LNK4006: "void __cdecl textColor(int,int)" (?textColor@@YAXHH@Z) already defined in bike.obj; second definition ignored
+C:\Users\junoc\Desktop\parusa\projectsoreal\x64\Debug\projectsoreal.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  projectsoreal.vcxproj -> C:\Users\junoc\Desktop\parusa\projectsoreal\x64\Debug\projectsoreal.exe
